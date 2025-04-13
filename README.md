@@ -32,6 +32,7 @@ Together, we grow faster 🚀
 ## Current solutions:
 |    Id    |    Title    |    Solution    |    Difficulty    |  
 | -------- | ----------- | -------------- | ---------------- |
-|2|[AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/)|[C](./Solutions/AddTwoNumbers/C/sol.c)|Medium|
+|1         | [TwoSum](https://leetcode.com/problems/two-sum/)| [C](./Solutions/TwoSum/C/sol.c)|Easy|
+|2         |[AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/)|[C](./Solutions/AddTwoNumbers/C/sol.c)|Medium|
 
 Made with ❤️ by Marius
