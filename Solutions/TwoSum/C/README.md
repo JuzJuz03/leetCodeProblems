@@ -1,4 +1,4 @@
-## My approach
+## Approach
 - A custom struct Number is used to store both the value and original index of each number from the input array.
 - The array is then sorted using bubble sort based on the values.
 - A two-pointer technique is applied:
