@@ -1,4 +1,4 @@
-# My approach
+# Approach
 
 - Will create a new list to store the digits, and
 traverse both input lists until both are fully processed.
