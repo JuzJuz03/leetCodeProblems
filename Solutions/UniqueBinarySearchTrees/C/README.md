@@ -1,0 +1,1 @@
+Each value from 1 to n is chosen as the root, and the number of trees is the product of the number of left and right subtrees that can be formed.
