@@ -34,6 +34,7 @@ Together, we grow faster 🚀
 | -------- | ----------- | -------------- | ---------------- |
 |1| [TwoSum](https://leetcode.com/problems/two-sum/)| [C](./Solutions/TwoSum/C/sol.c)|Easy|
 |2|[AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/)|[C](./Solutions/AddTwoNumbers/C/sol.c)|Medium|
+|6|[ZigzagConversion](https://leetcode.com/problems/zigzag-conversion/)|[C](./Solutions/ZigzagConversion/sol.c)|Medium|
 |9|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/)|[C](./Solutions/PalindromeNumber/sol.c)|Easy|
 |96|[UniqueBinarySearchTrees](https://leetcode.com/problems/unique-binary-search-trees/)|[C](./Solutions/UniqueBinarySearchTrees/C/sol.c)|Medium|
 
