@@ -37,5 +37,6 @@ Together, we grow faster 🚀
 |6|[ZigzagConversion](https://leetcode.com/problems/zigzag-conversion/)|[C](./Solutions/ZigzagConversion/sol.c)|Medium|
 |9|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/)|[C](./Solutions/PalindromeNumber/sol.c)|Easy|
 |96|[UniqueBinarySearchTrees](https://leetcode.com/problems/unique-binary-search-trees/)|[C](./Solutions/UniqueBinarySearchTrees/C/sol.c)|Medium|
+|1643|[KthSmallestInstructions](https://leetcode.com/problems/kth-smallest-instructions/)|[C](./Solutions/KthSmallestInstructions/C/sol.c)|<span style="color:red">Hard</span>|
 
 Made with ❤️ by Marius
